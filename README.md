@@ -13,7 +13,7 @@ I think this was one of the challenge webpages I just don't know the website I f
   
   - You going to need Node.js installed
   - You also going to need to know how to run tailwind projects
-  - [Tailwindcss docs] https://tailwindcss.com/docs/installation
+  - [Tailwindcss docs](https://tailwindcss.com/docs/installation)
 
 ## What I used
 
