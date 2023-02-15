@@ -6,6 +6,11 @@
 
 I think this was one of the challenge webpages I just don't know the website I found the challenge on
 
+##Live Preview
+```
+  https://picvet.github.io/tailwind-landing-page-1st-project-/
+```
+
 ## Download project
   ```
   https://github.com/picvet/tailwind-landing-page-1st-project-.git
